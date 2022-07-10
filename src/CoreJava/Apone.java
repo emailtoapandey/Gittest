@@ -1,5 +1,5 @@
 package CoreJava;
-
+private int x;
 public class Apone {
 	
 	private int x=10;
