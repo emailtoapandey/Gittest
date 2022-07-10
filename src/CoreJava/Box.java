@@ -5,6 +5,7 @@ public class Box {
 	private int height;
 	private int length;
 	private int width;
+	public int height1;
 	
 	public void setHeight(int h) {
 		
